@@ -1,0 +1,13 @@
+# Node.js (se usi npm)
+node_modules/
+
+# File temporanei dell'IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Log
+*.log
+
+# Cache di sistemi di build
+*.cache
